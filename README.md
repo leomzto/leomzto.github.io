@@ -1,7 +1,5 @@
 # Portfólio de Projetos
 
-Seja bem-vindo(a)! Aqui estão alguns projetos que desenvolvi para praticar e aprender mais sobre linguagens de programação, logica, desenvolvimento web, automações e APIs.
-
 ---
 
 ## 📂 Projetos
