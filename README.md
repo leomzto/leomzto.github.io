@@ -7,7 +7,7 @@
 ### 🧨​ Campo Minado (C)
 - **Descrição:** Jogo no terminal que abre casas e mostra quantas bombas há ao redor, com sistema de vida.
 - **Funcionalidades:** Liberdade para escolher o tamanho do campo, sistema de vida, bombas espalhadas aleatoriamente, mostragem de bombas ao redor da casa escolhida.
-- **Link do projeto:** [Ver online](<link>)
+- **Link do projeto:** [Ver online](<https://github.com/leomzto/projetos/tree/main/.C/campo%20minado>)
 - **Repositório:** [Código fonte](<https://github.com/leomzto/projetos/tree/main/.C/campo%20minado>)
 
 ---
@@ -15,7 +15,7 @@
 ### #️⃣​ Jogo da Velha (C) 
 - **Descrição:** Jogo para dois jogadores (X vs O) em matriz 3x3 no terminal.
 - **Funcionalidades:** Verificação de vitória, empate e derrota.
-- **Link do projeto:** [Ver online](<link>)
+- **Link do projeto:** [Ver online](https://github.com/leomzto/projetos/tree/main/.c/jogo%20da%20velha)
 - **Repositório:** [Código fonte](<https://github.com/leomzto/projetos/tree/main/.C/jogo%20da%20velha>)
 
 ---
