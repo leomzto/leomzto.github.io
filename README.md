@@ -23,7 +23,7 @@
 ### #️⃣​ RPG de Prompt (C) - Em desenvolvimento 
 - **Descrição:** Jogo de RPG em texto com sistema de batalhas e criação de personagem no terminal.
 - **Funcionalidades:** Criação de personagem, sistema de classes, inimigos variado, masmorras, progressão.
-- **Link do projeto:** [Ver online](<https://github.com/leomzto/RDPQuest>)
+- **Link do projeto:** [Ver online](<https://github.com/leomzto/RDPQuest/releases>)
 - **Repositório:** [Código fonte](<https://github.com/leomzto/RDPQuest/tree/main/rdp/src>)
 
 ---
