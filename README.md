@@ -32,13 +32,14 @@
 - [GitHub](<https://github.com/leomzto/>)
 - [LinkedIn](<https://www.linkedin.com/in/leomzto/>)
 - [Instagram](<https://www.instagram.com/leomzto/>)
-<!-- - [LeetCode](https://leetcode.com/u/leomzto/) -->
+- <!-- [LeetCode](https://leetcode.com/u/leomzto/) -->
 - [HackerRank](https://www.hackerrank.com/profile/leomzto)
 - [Certificados]()
 
 ---
 
 ## 📚 Sobre Mim
-- Estudante de S.I. (Sistemas de Informação) na UFV (Universidade Federal de Viçosa)
+- Graduando de Sistemas de Informação na UUniversidade Federal de Viçosa
+- Inglês avançado
 - Interesse em tecnologia e inovações
 - Disposto a aprender
