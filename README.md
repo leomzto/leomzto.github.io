@@ -32,7 +32,7 @@
 - [GitHub](<https://github.com/leomzto/>)
 - [LinkedIn](<https://www.linkedin.com/in/leomzto/>)
 - [Instagram](<https://www.instagram.com/leomzto/>)
-- <!-- [LeetCode](https://leetcode.com/u/leomzto/) -->
+<!-- - [LeetCode](https://leetcode.com/u/leomzto/) -->
 - [HackerRank](https://www.hackerrank.com/profile/leomzto)
 - [Certificados]()
 
