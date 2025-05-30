@@ -27,7 +27,7 @@
 
 ### 🧮 Calculadora (C e Python)
 - **Descrição:** Calculadora simples no terminal com operações básicas.
-- **Funcionalidades:** Soma, subtração, multiplicação e divisão.
+- **Funcionalidades:** Soma, subtração, multiplicação, divisão, fatoração, raiz quadrada e outras varias.
 - **Link:** [Código C](https://github.com/leomzto/projetos/tree/main/c/calculadora) | [Código Python](https://github.com/leomzto/projetos/tree/main/py/calculadora)
 
 ---
